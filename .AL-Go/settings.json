@@ -1,6 +1,6 @@
 {
   "country": "us",
-  "appFolders": [ALGOKS],
+  "appFolders": ["ALGOKS"],
   "testFolders": [],
   "bcptTestFolders": [],
   "environments": [
